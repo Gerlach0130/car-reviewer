@@ -5,6 +5,7 @@
   Work in progress
 
   A web application for potential vehicle buyers to research real testimonies and reviews from owners of which cars they are interested in purchasing.
+  Vehicle owners that wish to post a review will have their own user account with encrypted password. You do not have to have an account to view reviews.
   Utilizes Node.js, Express, MySQL2, and Handlebars for visuals.
 
   First version will only support vehicles built for the US market.
