@@ -1,4 +1,43 @@
-# car-reviewer
-A web application where potential car buyers can research and read real testimonies and reviews of the owners of vehicles they are looking at purchasing.
+  # Car Reviewer
 
-Work in progress
+  ## Description
+
+  Work in progress
+
+  A web application for potential vehicle buyers to research real testimonies and reviews from owners of which cars they are interested in purchasing.
+  Utilizes Node.js, Express, MySQL2, and Handlebars for visuals.
+
+  First version will only support vehicles built for the US market.
+
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributions](#contributions)
+  * [Tests](#tests)
+  * [License](#license)
+  * [Contact](#contact)
+
+  
+  ## Installation
+
+  Requires Node.js and MySQL2 with express among other packages, and Insomnia to test run on your local machine.
+
+  ## Usage
+
+  Install required node packages, initialize MySQL2 database, run node seed, then node server to start.
+
+  ## Contributions
+
+  Only repository owner can contribute at this time
+
+  ## Tests
+
+  Insomnia testing, Express server
+
+  ## License
+
+  MIT License
+
+  ## Contact
+
+  Any questions or comments can be directed to: mgerlach0130@gmail.com or www.github.com/Gerlach0130
