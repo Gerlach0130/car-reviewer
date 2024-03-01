@@ -29,7 +29,7 @@
 
   ## Contributions
 
-  Only repository owner can contribute at this time
+  Repository owner is sole author
 
   ## Tests
 
